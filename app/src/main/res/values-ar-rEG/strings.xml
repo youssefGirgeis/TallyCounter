@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عداد مسجل</string>
+    <string name="button_text">انقر</string>
+    <string name="reset_button">إعادة تعيين</string>
+</resources>

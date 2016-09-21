@@ -23,7 +23,7 @@
         android:id="@+id/TallyText" />
 
     <Button
-        android:text="Click ME!"
+        android:text="@string/button_text"
         android:textSize="40sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
